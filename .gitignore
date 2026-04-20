@@ -1,6 +1,7 @@
 # Archivos objeto binarios — no van en git
 programa.o
 matematica.o
+programa.o
 
 # Ejecutables (sin extensión en Linux/macOS)
 programa
